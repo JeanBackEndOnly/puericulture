@@ -27,10 +27,6 @@ if($users_id == null){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DASHBOARD</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"/>
-    <style>
-      @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css');
-    </style>
     <link rel="stylesheet" href="../css/default.css?=v<?php echo time(); ?>">
     <script src="../js/dashboard.js"></script>
 </head>
